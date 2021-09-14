@@ -1,4 +1,5 @@
 # different-curve-types
+## Take a look [**here**](https://juanmarin444.github.io/different-curve-types/)!
 ### static wave with css
 ### static bubble with css
 ### static wave with svg
